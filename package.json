@@ -9,7 +9,7 @@
     "koa-router": "^14.0.0"
   },
   "devDependencies": {
-    "@tsconfig/recommended": "^1.0.10",
+    "@tsconfig/recommended": "^1.0.11",
     "@types/jest": "^29.5.14",
     "@types/koa": "^3.0.1",
     "@types/koa-bunyan-logger": "^2.1.7",
